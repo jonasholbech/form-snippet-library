@@ -2,8 +2,6 @@
 
 ## Input
 
-`var`
-
 ### type="text"
 
 Used primarily for...
