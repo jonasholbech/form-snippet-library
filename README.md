@@ -11,4 +11,3 @@ Used primarily for...
 ```html
 <input type="text" />
 ```
-<input type="text" />
