@@ -1,8 +1,6 @@
-# H1
+# Input
 
-## Input
-
-### type="text"
+## type="text"
 
 Used primarily for...
 
